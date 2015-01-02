@@ -1,0 +1,17 @@
+#
+# this is your module manifest and used by Titanium
+# during compilation, packaging, distribution, etc.
+#
+version: 1.0.0
+apiversion: 2
+description: TiLongTouch
+author: Your Name
+license: Specify your license
+copyright: Copyright (c) 2014 by Your Company
+
+# these should not be edited
+name: TiLongTouch
+moduleid: de.marcelpociot.longtouch
+guid: 5b5eaf9f-c51f-44ec-8f55-383fc2edfe0d
+platform: iphone
+minsdk: 3.4.1.GA
