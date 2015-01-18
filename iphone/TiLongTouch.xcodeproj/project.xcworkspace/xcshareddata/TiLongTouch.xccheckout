@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>EACC0251-F55C-44E9-9FA1-ACD2A523FB82</string>
+	<key>IDESourceControlProjectName</key>
+	<string>TiLongTouch</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>C41F5F7AF307F4FD312805B4480E6087B3064F2F</key>
+		<string>github.com:mpociot/TiLongTouch.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>iphone/TiLongTouch.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>C41F5F7AF307F4FD312805B4480E6087B3064F2F</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>github.com:mpociot/TiLongTouch.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>C41F5F7AF307F4FD312805B4480E6087B3064F2F</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>C41F5F7AF307F4FD312805B4480E6087B3064F2F</string>
+			<key>IDESourceControlWCCName</key>
+			<string>TiLongTouch</string>
+		</dict>
+	</array>
+</dict>
+</plist>
